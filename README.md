@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayakumarAjsMp
+- 👋 Hi, I’m @JayakumarArasan
 - 👀 I’m interested in iOS development
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me ajs07cse@gmail.com
